@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "14ddebc97a03bf5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8918305a14e234cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204526d0c1d763fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "July/7.6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.6"
+            }
+          },
+          {
+            "id": "9061d8ef1d7c866e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "July/7.10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.10"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5197f3709e67456",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d5ba2926b7847c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "558131e3d2502e5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "372c8a096097b630",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d21f427d968611c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33b52d926271fba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d4565b6d73e4953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8363ae0834e84e90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "July/7.10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7.10"
+            }
+          },
+          {
+            "id": "798e1e11060e0f19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "July/7.10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7.10"
+            }
+          },
+          {
+            "id": "36e0b2b184fda58c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa0b056743e6a464",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95b96f57ca02b1c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "July/7.10.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7.10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "558131e3d2502e5e",
+  "lastOpenFiles": [
+    "July/7.6.md",
+    "July/7.10.md",
+    "September",
+    "August",
+    "July"
+  ]
+}
