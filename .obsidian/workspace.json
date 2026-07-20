@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "July/7.10.md",
+                "file": "July/7.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.10"
+              "title": "7.20"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "33b52d926271fba6",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "July/7.10.md",
+                "file": "July/7.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7.10"
+              "title": "Backlinks for 7.20"
             }
           },
           {
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "July/7.10.md",
+                "file": "July/7.20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7.10"
+              "title": "Outgoing links from 7.20"
             }
           },
           {
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "July/7.10.md",
+                "file": "July/7.20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.10"
+              "title": "Outline of 7.20"
             }
           }
         ]
@@ -198,10 +199,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "558131e3d2502e5e",
+  "active": "9061d8ef1d7c866e",
   "lastOpenFiles": [
-    "July/7.6.md",
+    "July/7.17.md",
+    "July/7.20.md",
+    "July/7.16.md",
+    "July/7.14.md",
     "July/7.10.md",
+    "July/7.6.md",
     "September",
     "August",
     "July"
