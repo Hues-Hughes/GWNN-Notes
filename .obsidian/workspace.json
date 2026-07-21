@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "July/7.20.md",
+                "file": "July/7.17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.20"
+              "title": "7.17"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33b52d926271fba6",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "July/7.20.md",
+                "file": "July/7.17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7.20"
+              "title": "Backlinks for 7.17"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "July/7.20.md",
+                "file": "July/7.17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7.20"
+              "title": "Outgoing links from 7.17"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "July/7.20.md",
+                "file": "July/7.17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.20"
+              "title": "Outline of 7.17"
             }
           }
         ]
@@ -199,10 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "9061d8ef1d7c866e",
+  "active": "558131e3d2502e5e",
   "lastOpenFiles": [
-    "July/7.17.md",
+    "July/summary images/aaa-framework-m3.png",
+    "July/summary images/1784221361_professional-dark-navy-blue-educational-infographi_1.png",
+    "July/summary images/125_2SystemandNetworkingDefense.png",
+    "July/summary images/1784218073_professional-dark-navy-blue-educational-infographi_1.png",
+    "July/summary images/1784218279_professional-dark-navy-blue-educational-infographi_1.png",
+    "July/summary images/acl_acct-management.png",
+    "July/summary images",
     "July/7.20.md",
+    "July/7.17.md",
     "July/7.16.md",
     "July/7.14.md",
     "July/7.10.md",
