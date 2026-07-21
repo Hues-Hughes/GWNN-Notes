@@ -50,5 +50,3 @@ Before you start working:
 4. **Push** your commits to GitHub.
 
 Following this order helps reduce merge conflicts and keeps your local repository up to date.
-
-If you'd like, I can also make this into a one-page cheat sheet with screenshots placeholders.
