@@ -25,14 +25,12 @@
             "id": "9061d8ef1d7c866e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "July/7.17.md",
-                "mode": "source",
-                "source": false
+                "file": "July/summary images&Files/125_2SystemandNetworkingDefense.png"
               },
-              "icon": "lucide-file",
-              "title": "7.17"
+              "icon": "lucide-image",
+              "title": "125_2SystemandNetworkingDefense"
             }
           }
         ],
@@ -198,17 +196,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "558131e3d2502e5e",
+  "active": "9061d8ef1d7c866e",
   "lastOpenFiles": [
-    "July/summary images/aaa-framework-m3.png",
-    "July/summary images/1784221361_professional-dark-navy-blue-educational-infographi_1.png",
-    "July/summary images/125_2SystemandNetworkingDefense.png",
-    "July/summary images/1784218073_professional-dark-navy-blue-educational-infographi_1.png",
-    "July/summary images/1784218279_professional-dark-navy-blue-educational-infographi_1.png",
-    "July/summary images/acl_acct-management.png",
-    "July/summary images",
+    "July/summary images&Files/netDefenseReviewZeroToHero.pdf",
     "July/7.20.md",
+    "README.md",
     "July/7.17.md",
+    "July/summary images&Files/aaa-framework-m3.png",
+    "July/summary images&Files/1784221361_professional-dark-navy-blue-educational-infographi_1.png",
+    "July/summary images&Files/125_2SystemandNetworkingDefense.png",
+    "July/summary images&Files/1784218073_professional-dark-navy-blue-educational-infographi_1.png",
+    "July/summary images&Files/1784218279_professional-dark-navy-blue-educational-infographi_1.png",
+    "July/summary images&Files/acl_acct-management.png",
+    "July/summary images&Files",
     "July/7.16.md",
     "July/7.14.md",
     "July/7.10.md",
