@@ -50,3 +50,6 @@ Before you start working:
 4. **Push** your commits to GitHub.
 
 Following this order helps reduce merge conflicts and keeps your local repository up to date.
+
+
+Note for future: Run through LM to have links created properly.(Notebook LM?)
