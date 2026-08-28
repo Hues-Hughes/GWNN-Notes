@@ -180,18 +180,20 @@ Sarah's Laptop → SASE PoP (nearest cloud edge) → Salesforce
 
 > *(Submit this to the class question bank)*
 
-| Term | Definition |
-|---|---|
-| **SD-WAN** | Overlay WAN using encrypted internet links with centralized policy control |
-| **SASE** | Convergence of SD-WAN + cloud security (CASB, FWaaS, ZTNA, SWG) |
-| **CASB** | Monitors and controls cloud application usage |
-| **FWaaS** | Cloud-native firewall delivered as a service |
-| **ZTNA** | Zero Trust Network Access — "never trust, always verify" |
-| **SWG** | Filters malicious web traffic at the cloud edge |
-| **PoP** | Point of Presence — SASE inspection node closest to the user |
-| **Backhauling** | Routing remote traffic through HQ before reaching the internet — causes latency |
-| **DLP** | Data Loss Prevention — prevents unauthorized data exfiltration |
-| **Automated Patching** | Cloud-native tools that auto-deploy OS/instance updates |
+| Term                      | Definition                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| **SD-WAN**                | Overlay WAN using encrypted internet links with centralized policy control      |
+| **SASE**                  | Convergence of SD-WAN + cloud security (CASB, FWaaS, ZTNA, SWG)                 |
+| **CASB**                  | Monitors and controls cloud application usage                                   |
+| **FWaaS**                 | Cloud-native firewall delivered as a service                                    |
+| **ZTNA**                  | Zero Trust Network Access — "never trust, always verify"                        |
+| **SWG**                   | Filters malicious web traffic at the cloud edge                                 |
+| **PoP**                   | Point of Presence — SASE inspection node closest to the user                    |
+| **Backhauling**           | Routing remote traffic through HQ before reaching the internet — causes latency |
+| **DLP**                   | Data Loss Prevention — prevents unauthorized data exfiltration                  |
+| **Automated Patching**    | Cloud-native tools that auto-deploy OS/instance updates                         |
+| **User Provisioning**     | Providing User accounts, access                                                 |
+| **Resource Provisioning** | Adjusting infrastructure resources for company needs                            |
 
 **Key Exam Reminders:**
 - SASE = SD-WAN + security stack, cloud-delivered
