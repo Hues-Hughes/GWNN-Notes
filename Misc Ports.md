@@ -25,3 +25,33 @@ PPTP 1723
 IP ISCSI 860
 FTPS 989/990
 TFTP 69
+
+---
+# MISC
+
+S/MIME provides confidentiality and integrity
+DNSSEC - authoritative server signs a package of records called an RRset
+
+**Dictionary Attack**
+
+Uses pre-arranged list of likely words, phrases, leaked credentials
+==Heavily Targets default passwords==
+
+**Responsibility Matrix**
+
+
+**Incident Response Policy**
+Outlines steps & procedures to take in response of breaches and incidents
+(==differs from playbooks as playbooks are more general==)
+
+**ECC (Elliptic Curve Cryptography)**
+Form of public key cryptography based on the algebraic structure of elliptic curves over finite fields primarily used for digital signatures and key exchanges.)
+
+**Simulation**
+Team based exercises against security systems. Costly and major planning
+Blue team vs red team in essence
+
+**TableTop**
+Scenario based exercises
+
+**End of Life**

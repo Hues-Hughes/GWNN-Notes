@@ -157,24 +157,6 @@ Sarah's Laptop → SASE PoP (nearest cloud edge) → Salesforce
 
 ---
 
-## 📌 Slide 9 — Exam-Style Practice Question
-
-> **SY0-701 Practice Question — Team 6**
-
-**A company has shifted to a fully remote workforce. Users are reporting slow performance when accessing SaaS applications through the corporate VPN. The security team wants to improve performance while maintaining security inspection for all user traffic. Which solution BEST addresses both requirements?**
-
-- A) Deploy additional VPN concentrators at the corporate data center
-- B) Implement SD-WAN to replace MPLS circuits at branch offices
-- C) Deploy a SASE solution with cloud-delivered security Points of Presence
-- D) Configure split tunneling on the existing VPN to bypass inspection
-
----
-
-**✅ Correct Answer: C**
-
-> **Rationale:** SASE delivers security inspection at the cloud edge (PoP nearest to the user), eliminating VPN backhauling while maintaining full security controls including ZTNA, CASB, SWG, and FWaaS. Option D (split tunneling) improves performance but *removes* security inspection — the opposite of what's needed.
-
----
 
 ## 📌 Slide 10 — One-Page Summary Sheet
 
@@ -202,11 +184,18 @@ Sarah's Laptop → SASE PoP (nearest cloud edge) → Salesforce
 - Physical perimeter firewalls **fail** when users access SaaS directly from home
 
 ---
+# MISC
 
-## 📋 Part B — Peer Feedback Answer Key *(for your reference)*
+**Policy Management (within Zero Trust)**
 
-**Q1: What core security services converge inside a SASE architecture?**
-> CASB, FWaaS, ZTNA, SWG, and SD-WAN — all delivered as a unified cloud service.
+*Policy Engine*
+	 responsible for making access control decisions based on pre-defined policies and contextual information about the subject/system.
 
-**Q2: How does SASE improve performance for remote workers compared to traditional VPNs?**
-> SASE eliminates backhauling by routing user traffic through the nearest cloud PoP for local inspection, rather than tunneling all traffic back to a corporate data center before reaching the internet.
+*Policy Enforcement Point*
+	responsible for enforcing the access control decisions made by the policy engine
+
+*Subject/System*
+	refers to the entity (user or device) that is requesting access to a resource, which needs to be authenticated before being granted access
+
+*Policy Administrator*
+	Outlines and creates policy and inherent systems
