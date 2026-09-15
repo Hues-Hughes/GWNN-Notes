@@ -37,10 +37,14 @@
             "id": "e77ff4f41602aa7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "September/9.15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.15"
             }
           },
           {
@@ -232,6 +236,8 @@
   },
   "active": "e77ff4f41602aa7f",
   "lastOpenFiles": [
+    "September/9.14.md",
+    "September/9.15.md",
     "July/John Kramer/7.29.md",
     "summary images&Files/125_2SystemandNetworkingDefense.png",
     "README.md",

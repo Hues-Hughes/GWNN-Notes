@@ -12,7 +12,7 @@ SLP 427
 SFTP 22
 Kerberos 88
 Telnet 23
-syslog 514
+syslog 514/Secure Syslog 6514
 SMB 445
 1701
 DHCP 67/68
